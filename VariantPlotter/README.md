@@ -18,7 +18,7 @@ matplotlib
 
 ### Usage
 
-```python
+```shell
 variantPlotter.py [-h] [-t TYPE] [--chromsizes CHROMSIZES]
                          [--cytoband CYTOBAND] [-o O]
                          input
