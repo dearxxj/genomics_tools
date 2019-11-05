@@ -7,7 +7,7 @@ VariantPlotter.py also supports CNV plotting. The input for CNV plotting is a BE
 -------
 
 
-##### Requirements
+### Requirements
 
 ```python
 python 3
@@ -16,8 +16,7 @@ matplotlib
 ```
 
 
-
-##### Usage
+### Usage
 
 ```python
 variantPlotter.py [-h] [-t TYPE] [--chromsizes CHROMSIZES]
@@ -41,7 +40,7 @@ optional arguments:
 
 
 
-#####Examples
+### Examples
 
 Example of SNV plotting:
 
